@@ -1,0 +1,19 @@
+## evergreen-user 12 SP1A.210812.016 V13.0.4.0.SGBMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6833
+- Codename: evergreen
+- Brand: POCO
+- Flavor: evergreen-user
+- Release Version: 12
+- Kernel Version: 4.14.186
+- Id: SP1A.210812.016
+- Incremental: V13.0.4.0.SGBMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: POCO/evergreen_global/evergreen:12/SP1A.210812.016/V13.0.4.0.SGBMIXM:user/release-keys
+- OTA version: 
+- Branch: evergreen-user-12-SP1A.210812.016-V13.0.4.0.SGBMIXM-release-keys
+- Repo: poco_evergreen_dump
